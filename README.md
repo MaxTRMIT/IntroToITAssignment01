@@ -1,4 +1,7 @@
 <html>
+          {% if site.logo %}
+          <img src="{{https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg}}" alt="Logo" />
+        {% endif %}
   
   <head> 
   <h1>Max Torti</h1>
