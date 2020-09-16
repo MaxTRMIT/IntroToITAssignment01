@@ -4,7 +4,7 @@
       <style>
       div.text {
         background-color: #ffffff;
-        width: 600px;
+        width: 700px;
         height: 150px;
         overflow: auto;
         text-align: justify;
