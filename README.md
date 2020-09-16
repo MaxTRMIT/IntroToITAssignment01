@@ -11,8 +11,7 @@
  <p> <br>I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
 <br>
 • What is your interest in IT? When did your interest in IT start? Was there a event or person that sparked your interest? Outline your IT experience (if any). 
-<br>
-Currently I am most interested in data centres, I feel that as our world has accepted technology and the population keeps growing, Data management is a field that will be in high demand.<br>
+<br>Currently I am most interested in data centres, I feel that as our world has accepted technology and the population keeps growing, Data management is a field that will be in high demand.<br>
 While I was in grade 4 I started getting interested in video games, through this I met some friends at school. One of these friends had a great understanding of software, especially for our age. Through him and videogames, I became interested in both software and hardware.<br>
 I don’t have any professional experience in the IT field yet, however I have assembled computers for friends for a profit.
 <br>
