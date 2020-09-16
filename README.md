@@ -1,31 +1,54 @@
-<html>
-        {% if site.logo %}
-          <img src="{{site.logo | https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg}}" alt="Logo" />
-        {% endif %}
-  
-  <head> 
-  <h1>Max Torti</h1>
-  My name is Max Torti. <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10. 
-  <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="hi" class="inline"/> 
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
-  
   <body>
-  <br>
- <p> <br>I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
-<br>
-• What is your interest in IT? When did your interest in IT start? Was there a event or person that sparked your interest? Outline your IT experience (if any).<br> 
-<br>Currently I am most interested in data centres, I feel that as our world has accepted technology and the population keeps growing, Data management is a field that will be in high demand.<br>
-While I was in grade 4 I started getting interested in video games, through this I met some friends at school. One of these friends had a great understanding of software, especially for our age. Through him and videogames, I became interested in both software and hardware.<br>
-I don’t have any professional experience in the IT field yet, however I have assembled computers for friends for a profit.
-<br>
-<br>• Why did you choose to come to RMIT? <br>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
 
-<br>I chose RMIT as I have heard great things from family friends and the internet.<br>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-<br>• What do you expect to learn during your studies?<br>
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
 
-<br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.
-</p>
-  </body>
-  
-  </html>
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    </body>
+    </html>
