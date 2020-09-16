@@ -1,16 +1,6 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <style>
-      div.text {
-        background-color: #ffffff;
-        width: 700px;
-        height: 150px;
-        overflow: auto;
-        text-align: justify;
-        padding: 20px;
-      }
-  </style>
   </head>
   <body>
     <div class="wrapper">
