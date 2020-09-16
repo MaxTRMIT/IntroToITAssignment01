@@ -3,12 +3,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" }}">My Profile - Max Torti</a></h1>
-        <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo" />
+        <h1><a href="{{ "/" | absolute_url }}">{{My Profile - Max Torti}}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg}}" alt="Photo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+      </header>
 
 My name is Max Torti. <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.
 <br>I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
