@@ -26,7 +26,6 @@
 
 My name is Max Torti. <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.
 <br>I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
-        <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo" width="50" height="50" style="float:left">
 <br>
 • What is your interest in IT? When did your interest in IT start? Was there a event or person that sparked your interest? Outline your IT experience (if any).<br> 
 <br>Currently I am most interested in data centres, I feel that as our world has accepted technology and the population keeps growing, Data management is a field that will be in high demand.<br>
