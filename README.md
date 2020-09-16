@@ -8,7 +8,18 @@
       <header>
         <h1><a href="{{ "/" }}">My Profile - Max Torti</a></h1>
         <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo" />
-<h2>overflow: auto:</h2>
+            <style>
+      div.scroll {
+        background-color: #fed9ff;
+        width: 600px;
+        height: 150px;
+        overflow-x: hidden;
+        overflow-y: auto;
+        text-align: center;
+        padding: 20px;
+      }
+    </style>
+<div class="text">
 <br>My name is Max Torti. <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.
 <br>I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
 <br>
@@ -24,7 +35,7 @@ I don’t have any professional experience in the IT field yet, however I have a
 <br>• What do you expect to learn during your studies?<br>
 
 <br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.
-
+</div>
       <footer>
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
