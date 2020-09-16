@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <style>
@@ -40,7 +39,4 @@ I don’t have any professional experience in the IT field yet, however I have a
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
-    </div>
-    </body>
-    </html>
 
