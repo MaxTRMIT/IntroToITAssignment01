@@ -9,7 +9,7 @@
       <header>
         <h1><a href="{{ "/" }}">{{ site.title }}</a></h1>
         
-          <img src="site.logo" alt="Logo" />
+          <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Logo" />
 
       </header>
       <section>
