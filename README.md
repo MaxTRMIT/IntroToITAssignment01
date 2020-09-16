@@ -9,7 +9,7 @@
         <h1><a href="{{ "/" }}">My Profile - Max Torti</a></h1>
         <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo" />
             <style>
-      div.scroll {
+      div.text {
         background-color: #fed9ff;
         width: 600px;
         height: 150px;
