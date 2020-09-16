@@ -8,6 +8,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" }}">My Profile - Max Torti</a></h1>
+        <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo" />
 
 My name is Max Torti. <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.
 <br>I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
