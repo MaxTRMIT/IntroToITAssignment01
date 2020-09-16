@@ -11,6 +11,7 @@
         text-align: justify;
         padding: 20px;
       }
+  </style>
   </head>
   <body>
     <div class="wrapper">
