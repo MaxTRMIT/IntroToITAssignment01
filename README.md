@@ -1,7 +1,7 @@
 <html>
   
   <head> 
-  <title>Max Torti</title>
+  <h1>Max Torti</h1>
   My name is Max Torti. I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10. 
 
   </head>
