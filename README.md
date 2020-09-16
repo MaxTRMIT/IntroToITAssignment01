@@ -9,7 +9,6 @@
   <body>
   <br>
  <p> <br>I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
-<br>In August 2017 when I was 14, I saved some money from my job, with this money I purchased the hardware needed to make an Ethereum mining rig. The mining rig was small (2x RX 570’s) but it really worked into my interest of computers, I have continued following computer hardware and software creation to this day.<br>
 <br>
 • What is your interest in IT? When did your interest in IT start? Was there a event or person that sparked your interest? Outline your IT experience (if any). 
 <br>
@@ -21,7 +20,7 @@ I don’t have any professional experience in the IT field yet, however I have a
 
 <br>I chose RMIT as I have heard great things from family friends and the internet.<br>
 
-• What do you expect to learn during your studies?<br>
+<br>• What do you expect to learn during your studies?<br>
 
 <br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.
 </p>
