@@ -1,6 +1,16 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <style>
+      div.projectIdea {
+        background-color: #ffffff;
+        width: 700px;
+        height: 150px;
+        overflow: auto;
+        text-align: justify;
+        padding: 20px;
+      }
+  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -25,6 +35,8 @@ I don’t have any professional experience in the IT field yet, however I have a
 
 <br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.
 </div>
+<div class="projectIdea">
+    </div>
       <footer>
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
