@@ -3,7 +3,7 @@
   <head> 
   <h1>Max Torti</h1>
   My name is Max Torti. <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10. 
-  <img src=”https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" style="width:500px;height:600px;"> 
+  <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="hi" class="inline"/> 
   </head>
   
   <body>
