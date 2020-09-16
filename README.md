@@ -2,11 +2,12 @@
   
   <head> 
   <h1>Max Torti</h1>
-  My name is Max Torti.<br>I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10. 
+  My name is Max Torti. <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10. 
 
   </head>
   
   <body>
+  <br>
  <p> I have knowledge in Java, MySQL, HTML and CSS, I am planning on learning Python and JavaScript in the future.<br> 
 In August 2017 when I was 14, I saved some money from my job, with this money I purchased the hardware needed to make an Ethereum mining rig. The mining rig was small (2x RX 570’s) but it really worked into my interest of computers, I have continued following computer hardware and software creation to this day.<br>
 <br>
