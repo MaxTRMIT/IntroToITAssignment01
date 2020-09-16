@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-html { overflow-y: scroll; }
-body { position: absolute; }
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,6 +6,7 @@ body { position: absolute; }
   <body>
     <div class="wrapper">
       <header>
+          overflow: auto;
         <h1><a href="{{ "/" }}">My Profile - Max Torti</a></h1>
         <img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo" />
 
