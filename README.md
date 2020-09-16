@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <style>
       div.text {
-        background-color: #074d75;
+        background-color: #ffffff;
         width: 600px;
         height: 150px;
         overflow: auto;
