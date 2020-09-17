@@ -62,9 +62,9 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 <br>After completing my Bachelor of I.T, I plan on acquiring experience with a trainee technician role. However, if this is not available I will seek work at technology companies that handle PC hardware, Linux and network equipment.<br>
 
     </div>
-    </br>
-    </br>
-    <br>Here is my project idea:
+
+<br>
+    <br><br>Here is my project idea:
     </br>
 <div class="projectIdea">
     Project Idea:<br>
