@@ -36,6 +36,52 @@ I don’t have any professional experience in the IT field yet, however I have a
 <br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.
 </div>
 <div class="projectIdea">
+    Project Idea:
+My project would be an application that users can obtain certain water parameters from each cities water supply. 
+Water parameters such as water hardness is needed for certain kitchen appliances, appliances that require the use of water, people who keep pet fish and much more. This information isn’t easily obtainable unless you buy a testing kit, these kits can cost around $50 - $70 each. 
+The goal is using user’s entered information, which would include the water parameters in GH, KH, PH, Ammonia, Nitrites and Nitrates to prevent other members of the community from needing a testing kit.
+
+My motivation for creating this application is due to me owning fish, I have recently gotten into the hobby and while researching I noticed a lack of data. 
+Water parameters are very important when keeping fish, each fish require specific parameters. I was searching online as I was hoping to avoid buying a test kit, as testing kits are upwards of $50, however I wasn’t able to find any information regarding Gold Coast’s tap water parameters.
+When I realized that there was very little to no information online about Australia’s average water parameters from the tap, I decided I would make an application on it to help inform other members of the public and tap into this massive market.
+
+The application will be called “Water Near You”, the aim of this application is to provide information to people about the water parameters in cities near them.
+“Water Near You” will use data supplied by users initially, as obtaining the data myself is unfeasible. The main source of data in the beginning will be users using their own test kits, users will enter what city they live in and various water parameters derived from the water from their tap. 
+Initially a lot of tests will need to be conducted to gain sufficient data, once this data is entered into the application the mean will be calculated and presented to the user.
+Using the mean of all of the data isn’t completely accurate, however it will provide a solid estimate for people on tap water (tank or well water are not applicable).
+“Water Near You” will be both an application for mobile phones and a website, to help reach as many users as possible. Due to my knowledge of mobile phone application creation being zero, I feel this may be a drawback.
+The end goal for this application is to make water data easily obtainable for everyone, this data is important for multiple reasons such as plumbing issues, health issues and pet related issues.
+Other then simply providing the parameters, there will be an FAQ (frequently asked questions) tab.
+In the FAQ tab there will be many posts answering common questions surrounding water parameters, such as “How can someone lower the acidity of water”.
+Due to the lack of preexisting data, a challenge will be obtaining relevant data. This is problem when the applications entire concept is to limit the need of a test kit, and in the beginning, I will be calling on users to submit data from their used test kits, kind of hypocritical. However, test kits will be needed to create the basis of the program, once enough data has been supplied the number of tests can be heavily reduced, until there is a change in users cities water processing, storing or distributing methods.
+
+
+The tools needed to create “Water Near You” are as follows:
+•	Java
+•	Swift – possibly
+•	HTML
+•	CSS
+•	MySQL
+•	Water parameter test kits
+I intend “Water Near You” to be both a mobile phone app and a website, I will mainly focus on Android phones rather then apple. For android development I will use Java, if an ios variant is to be developed it will be made using Swift.
+For the website development simple HTML and CSS will be used, I could possibly incorporate some features using Java.
+Due to “Water Near You” relying almost entirely on a mass of data, a database will be needed. The database create for the application will be made using MySQL.
+I personally can run some tests in my surrounding area, that being Gold Coast. I can run these tests using simple test strips.
+
+
+The skills required for “Water Near You” consist mainly of programming. 
+Due to the applications intended platforms being both mobile phones and a website, knowledge in multiple languages such as Java, Swift, MySQL, HTML and CSS will be required.
+I believe this project is completely achievable, the foreseeable problem would be using the programming language Swift.
+No special hardware would be needed, however, custom coded programs will be needed for the website and mobile phone app.
+Due to the database that would be needed having the potential to get really large, it may be a challenge to maintain it.
+Other skills needed include social networking, to make this project reach its potential it needs a following of users.
+
+
+The desired outcome from this project is to make an application that can greatly help inform members of the population. This application will hopefully fill the whole of missing data, data in which can be applicable to many different appliances, causes and hobbies.
+With this project I hope to limit the need of water test kits, which can fetch a high price. While this can help many, it is also crucial in massive markets such as fish keeping, making it potentially profitable.
+Overall I believe that this project can help a lot of people, due to the lack of data that can be found surrounding the water parameters of Australian cities.
+
+
     </div>
       <footer>
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
