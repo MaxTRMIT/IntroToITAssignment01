@@ -33,12 +33,12 @@ I don’t have any professional experience in the IT field yet, however I have a
 
 <br>• What do you expect to learn during your studies?<br>
 
-<br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.
-
+<br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.<br>
+<br>
 <br>Here is my project idea:
 </div>
 <div class="projectIdea">
-    Project Idea:
+    Project Idea:<br>
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
 <br>Water parameters such as water hardness is needed for certain kitchen appliances, appliances that require the use of water, people who keep pet fish and much more. 
     <br>This information isn’t easily obtainable unless you buy a testing kit, these kits can cost around $50 - $70 each. 
@@ -65,7 +65,7 @@ I don’t have any professional experience in the IT field yet, however I have a
 <br>•	HTML
 <br>•	CSS
 <br>•	MySQL
-<br>•	Water parameter test kits<br>
+<br>•	Water parameter test kits
 <br>I intend “Water Near You” to be both a mobile phone app and a website, I will mainly focus on Android phones rather then apple. For android development I will use Java, if an ios variant is to be developed it will be made using Swift.
 <br>For the website development simple HTML and CSS will be used, I could possibly incorporate some features using Java.
 <br>Due to “Water Near You” relying almost entirely on a mass of data, a database will be needed. The database create for the application will be made using MySQL.
