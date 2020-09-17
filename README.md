@@ -75,9 +75,9 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 <br>
     <br><br>Here is my personal profile:
 <div class="personalProfile">
-    <br>The results from the personal tests I completed are as follows:
-     <br>Myers-Briggs test, www.16personalities.com: I am a architect.
-    <br>https://www.how-to-study.com/learning-style-assessment/: I am a visual learner.
+    The results from the personal tests I completed are as follows:<br>
+     <br>Myers-Briggs test, www.16personalities.com: I am a architect.<br>
+    <br>https://www.how-to-study.com/learning-style-assessment/: I am a visual learner.<br>
     <br>https://psychcentral.com/personality-test/start.php: 
     <br><img src="https://user-images.githubusercontent.com/70696652/93517247-861d3000-f96e-11ea-9f63-1bab67cabc78.PNG" alt="personalityTest3" />
     </div>
