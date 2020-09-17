@@ -2,6 +2,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <style>
+                div.idealJob {
+        background-color: #ffffff;
+        width: 700px;
+        height: 150px;
+        overflow: auto;
+        text-align: justify;
+        padding: 20px;
+      }
       div.projectIdea {
         background-color: #ffffff;
         width: 700px;
@@ -37,6 +45,23 @@ I don’t have any professional experience in the IT field yet, however I have a
 <br>
 <br>Here is my project idea:
 </div>
+<div class="idealJob">
+    Ideal Job<br>
+https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-dbbe-47ef-b3c2-4485c734779d<br>
+    <br>
+        <img src="https://user-images.githubusercontent.com/70696652/93510465-93352180-f964-11ea-83d6-d23699c764be.png" alt="Job" /><br>
+    <br>I perceive a data center technician’s job to be centered around hardware and software, as my interest in IT began through hardware it is my sweet spot is. 
+    <br>I find all things hardware to be interesting, even trivial tasks surrounding PC’s I am happy to do it. 
+    <br>I find software to be an ever-changing challenge, but a rewarding one. I enjoy learning programming, figuring out how applications and computers work.
+<br>As I mentioned earlier, I truly believe that this field will be constantly under demand, with the population ever increasing and interest for IT always rising.<br>
+
+<br>For the job listing above this the skills required are 2 years’ experience with PC hardware, 1 year of Linux OS experience, OS/network/software troubleshooting experience and the ability to lift 25kg daily.<br>
+
+<br>Currently I have no professional experience, I am planning on getting experience after I have completed my Bachelor of I.T. With this I hope to progress through the rankings of data center technician’s, hopefully achieving a job in management.<br>
+
+<br>After completing my Bachelor of I.T, I plan on acquiring experience with a trainee technician role. However, if this is not available I will seek work at technology companies that handle PC hardware, Linux and network equipment.<br>
+
+    </div>
 <div class="projectIdea">
     Project Idea:<br>
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
