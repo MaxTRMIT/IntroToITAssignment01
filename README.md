@@ -62,10 +62,10 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 <br>After completing my Bachelor of I.T, I plan on acquiring experience with a trainee technician role. However, if this is not available I will seek work at technology companies that handle PC hardware, Linux and network equipment.<br>
 
     </div>
-    <\n>
-    <\n>
+    </br>
+    </br>
     <br>Here is my project idea:
-    <\n>
+    </br>
 <div class="projectIdea">
     Project Idea:<br>
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
