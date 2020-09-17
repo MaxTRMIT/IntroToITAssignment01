@@ -65,7 +65,6 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 
 <br>
     <br><br>Here is my project idea:
-    </br>
 <div class="projectIdea">
     Project Idea:<br>
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
