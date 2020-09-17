@@ -43,7 +43,7 @@ I don’t have any professional experience in the IT field yet, however I have a
 
 <br>I hope to improve my overall knowledge of IT, and get an understanding of what to expect in this profession.<br>
 <br>
-<br>Here is my project idea:
+<br>Here is my ideal job:
 </div>
 <div class="idealJob">
     Ideal Job<br>
@@ -62,6 +62,10 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 <br>After completing my Bachelor of I.T, I plan on acquiring experience with a trainee technician role. However, if this is not available I will seek work at technology companies that handle PC hardware, Linux and network equipment.<br>
 
     </div>
+    <\n>
+    <\n>
+    <br>Here is my project idea:
+    <\n>
 <div class="projectIdea">
     Project Idea:<br>
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
