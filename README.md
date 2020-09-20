@@ -28,7 +28,7 @@
 			width: 170px;
 			padding: 0 10px;
 			margin-left: -100%;
-			left: 24px;
+			float: left;
 		}
 		
 		#right {
