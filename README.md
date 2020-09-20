@@ -42,7 +42,7 @@ border: 5px solid red;
   <body>
 
 <div class="text">
-<br>My name is Max Torti, my student number is: s3871671 and my student email is: S3871671@student.rmit.edu.au. <br>The Github repository url is: https://github.com/MaxTRMIT/IntroToITAssignment01 <br>The Github page url is:https://maxtrmit.github.io/IntroToITAssignment01/<br> <br>I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.<br>
+<br>My name is Max Torti, my student number is: s3871671 and my student email is: S3871671@student.rmit.edu.au. <br>The Github repository url is: https://github.com/MaxTRMIT/IntroToITAssignment01 <br>The Github page url is: https://maxtrmit.github.io/IntroToITAssignment01/<br> <br>I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.<br>
   <br><img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="photoOfMe"><br>
     <br>One fact about myself is that when I was 15 I made a bitcoin mining machine, using 2 rx 570 graphics cards and a second hand motherboard, cpu, ram and powersupply. This really pushed my interest in IT to the next leve.
 <br>I have knowledge in Java, MySQL, and I know a little HTML/CSS. I am planning on learning Javascript and Python in the future. <br>
@@ -80,7 +80,7 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 </div>
 
 <br>
-    <br><br>Here is my personal profile:
+      <br><br>Here is my personal profile:
 <div class="personalProfile">
     The results from the personal tests I completed are as follows:<br>
      <br>Myers-Briggs test, www.16personalities.com: I am an architect.<br>
@@ -96,12 +96,12 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
     <br>• How should you take this into account when forming a team?
     <br>I am goal driven, however I may not communicate certain aspects of a plan to my team members.
     How I will counter this is by ensuring I focus on communication, ensuring everyone is upto speed and understanding of what is going on.
-  </div>
+    </div>
 
 <br>
     <br><br>Here is my project idea:
 <div class="projectIdea">
-    <Project Idea:<br>
+    <!--Project Idea:<br>-->
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
 Water parameters such as water hardness is needed for certain kitchen appliances, appliances that require the use of water, people who keep pet fish and much more. 
     This information isn’t easily obtainable unless you buy a testing kit, these kits can cost around $50 - $70 each for simple kits. 
@@ -147,5 +147,6 @@ Other skills needed include social networking to make this project reach its pot
 This application will hopefully fill the hole of missing data, data in which can be applicable to many different appliances, causes and hobbies.
 With this project I hope to limit the need of water test kits, which can fetch a high price. While this can help many, it is also crucial in massive markets such as fish keeping, making it potentially profitable.
 <br>Overall I believe that this project can help a lot of people, due to the lack of data that can be found surrounding the water parameters of Australian cities.
-</div>
 
+
+    </div>
