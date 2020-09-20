@@ -42,7 +42,7 @@ border: 5px solid red;
   <body>
 
 <div class="text">
-<br>My name is Max Torti, my student number is: s3871671 and my student email is: S3871671@student.rmit.edu.au. <br>The Github repository url is: https://github.com/MaxTRMIT/IntroToITAssignment01 The Github page url is:https://maxtrmit.github.io/IntroToITAssignment01/<br> <br>I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.<br>
+<br>My name is Max Torti, my student number is: s3871671 and my student email is: S3871671@student.rmit.edu.au. <br>The Github repository url is: https://github.com/MaxTRMIT/IntroToITAssignment01 <br>The Github page url is:https://maxtrmit.github.io/IntroToITAssignment01/<br> <br>I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.<br>
   <br><img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="photoOfMe"><br>
     <br>One fact about myself is that when I was 15 I made a bitcoin mining machine, using 2 rx 570 graphics cards and a second hand motherboard, cpu, ram and powersupply. This really pushed my interest in IT to the next leve.
 <br>I have knowledge in Java, MySQL, and I know a little HTML/CSS. I am planning on learning Javascript and Python in the future. <br>
@@ -77,8 +77,7 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 <br>Currently I have no professional experience, I am planning on getting experience after I have completed my Bachelor of I.T. With this I hope to progress through the rankings of data center technician’s, hopefully achieving a job in management.<br>
 
 <br>After completing my Bachelor of I.T, I plan on acquiring experience with a trainee technician role. However, if this is not available I will seek work at technology companies that handle PC hardware, Linux and network equipment.<br>
-
-        </div>
+</div>
 
 <br>
     <br><br>Here is my personal profile:
@@ -97,7 +96,7 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
     <br>• How should you take this into account when forming a team?
     <br>I am goal driven, however I may not communicate certain aspects of a plan to my team members.
     How I will counter this is by ensuring I focus on communication, ensuring everyone is upto speed and understanding of what is going on.
-    </div>
+  </div>
 
 <br>
     <br><br>Here is my project idea:
@@ -148,7 +147,5 @@ Other skills needed include social networking to make this project reach its pot
 This application will hopefully fill the hole of missing data, data in which can be applicable to many different appliances, causes and hobbies.
 With this project I hope to limit the need of water test kits, which can fetch a high price. While this can help many, it is also crucial in massive markets such as fish keeping, making it potentially profitable.
 <br>Overall I believe that this project can help a lot of people, due to the lack of data that can be found surrounding the water parameters of Australian cities.
-
-
-    </div>
+</div>
 
