@@ -6,7 +6,7 @@
 	<style>
 
 		body {
-			min-width: 630px;
+			min-width: 1000px;
 		}
 
 		#container {
@@ -27,7 +27,7 @@
 		#left {
 			width: 180px;
 			padding: 0 10px;
-			right: 2040px;
+			right: 240px;
 			margin-left: -100%;
 		}
 		
