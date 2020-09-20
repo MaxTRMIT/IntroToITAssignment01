@@ -59,7 +59,7 @@ I don’t have any professional experience in the IT field yet, however I have a
 <br>
 <br>Here is my ideal job:
 </div>
-<div class="idealJob">
+<!--<div class="idealJob">-->
     Ideal Job<br>
 https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-dbbe-47ef-b3c2-4485c734779d<br>
     <br>
