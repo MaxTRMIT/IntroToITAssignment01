@@ -149,3 +149,8 @@ With this project I hope to limit the need of water test kits, which can fetch a
 
 
     </div>
+    </n>
+    References<br>
+<br>[1]H. page, S. Nabi and J. McCreary, "How can i put a border around the page", Stack Overflow, 2020. [Online]. Available: https://stackoverflow.com/questions/3175009/how-can-i-put-a-border-around-the-page. [Accessed: 15- Sep- 2020].<br>
+
+<br>[2]"CSS overflow property", W3schools.com, 2020. [Online]. Available: https://www.w3schools.com/cssref/pr_pos_overflow.asp. [Accessed: 15- Sep- 2020].
