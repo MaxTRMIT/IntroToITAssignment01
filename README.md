@@ -25,9 +25,10 @@
 		}
 		
 		#left {
-			width: 180px;
+			width: 170px;
 			padding: 0 10px;
 			margin-left: -100%;
+			left: 24px;
 		}
 		
 		#right {
