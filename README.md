@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <style>
+      <!--<style>
                 div.idealJob {
         background-color: #ffffff;
         width: 700px;
@@ -26,7 +26,7 @@
         text-align: justify;
         padding: 20px;
       }
-  </style>
+  </style>-->
   </head>
   <body>
     <div class="wrapper">
