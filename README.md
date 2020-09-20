@@ -27,7 +27,6 @@
 		#left {
 			width: 180px;
 			padding: 0 10px;
-			right: 24px;
 			margin-left: -100%;
 		}
 		
