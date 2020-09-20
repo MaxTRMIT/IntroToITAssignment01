@@ -32,7 +32,7 @@
 		}
 		
 		#right {
-			width: 130px;
+			width: 180px;
 			padding: 0 10px;
 			margin-right: -100%;
 		}
@@ -54,11 +54,11 @@
 			margin-bottom: -1000em;
 		}
 
-		* html body {
+		#html body {
 			overflow: hidden;
 		}
 		
-		* html #footer-wrapper {
+		#html #footer-wrapper {
 			float: left;
 			position: relative;
 			width: 100%;
