@@ -23,14 +23,14 @@ div.idealJob {
   height: 400px;
   overflow: auto;
 }
-  }
+  
  div.personalProfile {
   background-color: white;
   width: 800px;
   height: 400px;
   overflow: auto;
 }
-  }
+  
  div.projectIdea {
   background-color: white;
   width: 800px;
