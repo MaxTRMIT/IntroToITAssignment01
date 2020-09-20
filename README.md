@@ -81,7 +81,7 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
     <br>https://psychcentral.com/personality-test/start.php: 
     <br><img src="https://user-images.githubusercontent.com/70696652/93517247-861d3000-f96e-11ea-9f63-1bab67cabc78.PNG" alt="personalityTest3" /><br>
     <br>• What do the results of these tests mean for you?
-    <br>I believe that the 16personalities test is probably the most fitting, I find myself to be relating to most of the specified traits of an architect.
+    <br>I believe that the 16personalities test is probably the most fitting, I find myself to be relating to most of the specified traits of an architect. Being an architect means you are more self focused, I find this to be somewhat true as I generally take tasks onto myself to complete.
     <br>Architect specification list: https://www.16personalities.com/intj-personality<br>
     <br>• How do you think these results may influence your behaviour in a team?
     <br>Something that I don't fully agree with for the personality tests is introversion, I am not the loudest person however I am open and quite happy to work in teams.
