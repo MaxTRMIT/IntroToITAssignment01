@@ -62,7 +62,7 @@ I don’t have any professional experience in the IT field yet, however I have a
 <br>
 <br>Here is my ideal job:
 </div>
-<div class="idealJob">
+<!--<div class="idealJob">-->
     Ideal Job<br>
 https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-dbbe-47ef-b3c2-4485c734779d<br>
     <br>
@@ -81,7 +81,7 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 
 <br>
       <br><br>Here is my personal profile:
-<div class="personalProfile">
+<!--<div class="personalProfile">-->
     The results from the personal tests I completed are as follows:<br>
      <br>Myers-Briggs test, www.16personalities.com: I am an architect.<br>
     <br>https://www.how-to-study.com/learning-style-assessment/: I am a visual learner.<br>
@@ -100,7 +100,7 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 
 <br>
     <br><br>Here is my project idea:
-<div class="projectIdea">
+<!--<div class="projectIdea">-->
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
 Water parameters such as water hardness is needed for certain kitchen appliances, appliances that require the use of water, people who keep pet fish and much more. 
     This information isn’t easily obtainable unless you buy a testing kit, these kits can cost around $50 - $70 each for simple kits. 
