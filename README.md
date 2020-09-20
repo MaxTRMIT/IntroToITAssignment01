@@ -15,7 +15,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   min-height: 100%;
 }
   body {
-border: 5px solid red;
+border: 5px solid black;
 }
  <!-- div.idealJob {
   background-color: white;
@@ -102,7 +102,7 @@ https://www.seek.com.au/job/50396825?type=standout#searchRequestToken=6ab46e33-d
 <br>
     <br><br>Here is my project idea:
 <div class="projectIdea">
-    Project Idea:<br>
+    <!--Project Idea:<br>-->
 <br>My project would be an application that users can obtain certain water parameters from each cities water supply. 
 Water parameters such as water hardness is needed for certain kitchen appliances, appliances that require the use of water, people who keep pet fish and much more. 
     This information isn’t easily obtainable unless you buy a testing kit, these kits can cost around $50 - $70 each for simple kits. 
