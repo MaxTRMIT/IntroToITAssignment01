@@ -10,8 +10,8 @@
 		}
 
 		#container {
-			padding-left: 600px;
-			padding-right: 560px;
+			padding-left: 60px;
+			padding-right: 56px;
 		}
 		
 		#container .column {
