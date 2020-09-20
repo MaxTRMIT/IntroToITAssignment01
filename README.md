@@ -34,7 +34,7 @@
 		#right {
 			width: 170px;
 			padding: 0 10px;
-			right: 240px;
+			left: 240px;
 			margin-right: -100%;
 		}
 		
