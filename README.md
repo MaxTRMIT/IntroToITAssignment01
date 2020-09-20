@@ -42,9 +42,9 @@ border: 5px solid red;
   <body>
 
 <div class="text">
-<br>My name is Max Torti, my student number is: s3871671 and my student email is: S3871671@student.rmit.edu.au <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.
-  <\n><br><img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="photoOfMe"><br>
-    <\n>Oe fact about myself is that when I was 15 I made a bitcoin mining machine, using 2 rx 570 graphics cards and a second hand motherboard, cpu, ram and powersupply. This really pushed my interest in IT to the next leve.
+<br>My name is Max Torti, my student number is: s3871671 and my student email is: S3871671@student.rmit.edu.au <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.<br>
+  <br><img src="https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="photoOfMe"><br>
+    <br>One fact about myself is that when I was 15 I made a bitcoin mining machine, using 2 rx 570 graphics cards and a second hand motherboard, cpu, ram and powersupply. This really pushed my interest in IT to the next leve.
 <br>I have knowledge in Java, MySQL, and I know a little HTML/CSS. I am planning on learning Javascript and Python in the future. <br>
 <br>
 • What is your interest in IT? When did your interest in IT start? Was there a event or person that sparked your interest? Outline your IT experience (if any).<br> 
