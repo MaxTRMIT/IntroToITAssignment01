@@ -32,8 +32,9 @@
 		}
 		
 		#right {
-			width: 180px;
+			width: 170px;
 			padding: 0 10px;
+			right: 240px;
 			margin-right: -100%;
 		}
 		
