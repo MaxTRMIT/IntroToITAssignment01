@@ -27,14 +27,14 @@
 		#left {
 			width: 180px;
 			padding: 0 10px;
-			right: 240px;
+			right: 24px;
 			margin-left: -100%;
 		}
 		
 		#right {
 			width: 170px;
 			padding: 0 10px;
-			left: 240px;
+			left: 24px;
 			margin-right: -100%;
 		}
 		
