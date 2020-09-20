@@ -17,26 +17,26 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   body {
 border: 5px solid red;
 }
- div.idealJob {
+<!-- div.idealJob {
   background-color: white;
   width: 800px;
   height: 400px;
   overflow: auto;
 }
   }
-  div.personalProfile {
+ div.personalProfile {
   background-color: white;
   width: 800px;
   height: 400px;
   overflow: auto;
 }
   }
-  div.projectIdea {
+ div.projectIdea {
   background-color: white;
   width: 800px;
   height: 400px;
   overflow: auto;
-}
+}-->
 </style>
   </head>
   <body>
