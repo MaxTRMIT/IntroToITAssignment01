@@ -11,7 +11,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo"');
+  background-image: url('"https://user-images.githubusercontent.com/70696652/93361356-1f254b80-f888-11ea-9a5b-36b90355d2bc.jpg" alt="Photo"');
   min-height: 100%;
 }
  <!-- div.idealJob {
@@ -37,9 +37,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 </style>
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" }}">My Profile - Max Torti</a></h1>
 
 <div class="text">
 <br>My name is Max Torti, my student number is: s3871671 and my student email is: S3871671@student.rmit.edu.au <br> I am from Gold Coast Australia, born 2003 and have completed a certificate 3 in tourism and grade 10.
