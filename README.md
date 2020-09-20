@@ -1,5 +1,4 @@
 <head>
-<title>Personal Profile - Max Torti</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -14,6 +13,26 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   background-size: cover;
   background-image: url('/w3images/profile_girl.jpg');
   min-height: 100%;
+}
+  div.idealJob {
+  background-color: white;
+  width: 110px;
+  height: 110px;
+  overflow: auto;
+}
+  }
+  div.personalProfile {
+  background-color: white;
+  width: 110px;
+  height: 110px;
+  overflow: auto;
+}
+  }
+  div.projectIdea {
+  background-color: white;
+  width: 110px;
+  height: 110px;
+  overflow: auto;
 }
 </style>
   </head>
@@ -132,8 +151,4 @@ With this project I hope to limit the need of water test kits, which can fetch a
 
 
     </div>
-      <footer>
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
 
