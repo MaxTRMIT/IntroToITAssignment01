@@ -14,26 +14,26 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   background-image: url('/w3images/profile_girl.jpg');
   min-height: 100%;
 }
-  div.idealJob {
+ <!-- div.idealJob {
   background-color: white;
-  width: 110px;
-  height: 110px;
+  width: 800px;
+  height: 400px;
   overflow: auto;
 }
   }
   div.personalProfile {
   background-color: white;
-  width: 110px;
-  height: 110px;
+  width: 800px;
+  height: 400px;
   overflow: auto;
 }
   }
   div.projectIdea {
   background-color: white;
-  width: 110px;
-  height: 110px;
+  width: 800px;
+  height: 400px;
   overflow: auto;
-}
+}-->
 </style>
   </head>
   <body>
