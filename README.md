@@ -15,7 +15,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   min-height: 100%;
 }
   body {
-border: 5px solid black;
+border: 5px solid red;
 }
  <!-- div.idealJob {
   background-color: white;
