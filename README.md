@@ -148,9 +148,8 @@ With this project I hope to limit the need of water test kits, which can fetch a
 <br>Overall I believe that this project can help a lot of people, due to the lack of data that can be found surrounding the water parameters of Australian cities.
 
 
-    </div>
-    </n>
-    References<br>
+    </div><br>
+    <br>References<br>
 <br>[1]H. page, S. Nabi and J. McCreary, "How can i put a border around the page", Stack Overflow, 2020. [Online]. Available: https://stackoverflow.com/questions/3175009/how-can-i-put-a-border-around-the-page. [Accessed: 15- Sep- 2020].<br>
 
 <br>[2]"CSS overflow property", W3schools.com, 2020. [Online]. Available: https://www.w3schools.com/cssref/pr_pos_overflow.asp. [Accessed: 15- Sep- 2020].
